@@ -1,0 +1,20 @@
+body{
+    background-color: #f8f9fa;
+}
+
+.classe {
+    
+}
+
+.verde { 
+    background-color: green;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+.vermelho { 
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}

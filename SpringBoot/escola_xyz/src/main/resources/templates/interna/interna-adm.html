@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns:th="http://thymeleaf.org/">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Interna do ADM</title>
+    <link rel="stylesheet" th:href="@{css/style-login.css}">
+    <div th:insert="~{fragmentos/style}"><!-- menu de estilização --></div>
+</head>
+<body>
+    <div th:insert="~{fragmentos/header :: header}"><!-- barra de menu --></div>
+    <h1>Página interna do ADM😒💕</h1>
+    <a href="/logoff-adm">
+    <button type="button" class="btn btn-danger"><i class="fas fa-sign-out-alt"></i> Sair</button>
+    </a>
+</body>
+</html>
