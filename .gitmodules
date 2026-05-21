@@ -1,3 +1,6 @@
 [submodule "SpringBoot"]
 	path = SpringBoot
 	url = https://github.com/LuanBasani/SpringBoot
+[submodule "AP"]
+	path = AP
+	url = https://github.com/LuanBasani/APIs.git
