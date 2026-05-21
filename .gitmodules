@@ -31,3 +31,9 @@
 [submodule "PHP/S10_R1_AT1"]
 	path = PHP/S10_R1_AT1
 	url = https://github.com/LuanBasani/S10_R1_AT1.git
+[submodule "PHP/S1_R1_AT1"]
+	path = PHP/S1_R1_AT1
+	url = https://github.com/LuanBasani/S1_S2_R1_AT1_PHP.git
+[submodule "PHP/S4_R1_AT1"]
+	path = PHP/S4_R1_AT1
+	url = https://github.com/LuanBasani/S4_R1_AT1.git
