@@ -4,3 +4,6 @@
 [submodule "AP"]
 	path = AP
 	url = https://github.com/LuanBasani/APIs.git
+[submodule "APIs"]
+	path = APIs
+	url = https://github.com/LuanBasani/APIs.git
