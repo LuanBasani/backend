@@ -10,3 +10,24 @@
 [submodule "PHP/S1_S2_R1_AT1"]
 	path = PHP/S1_S2_R1_AT1
 	url = https://github.com/LuanBasani/S1_S2_R1_AT1_PHP.git
+[submodule "PHP/S3_R1_AT1"]
+	path = PHP/S3_R1_AT1
+	url = https://github.com/LuanBasani/S3_R1_AT1.git
+[submodule "PHP/S5_R1_AT1"]
+	path = PHP/S5_R1_AT1
+	url = https://github.com/LuanBasani/S5_R1_AT1.git
+[submodule "PHP/S6_R1_AT1"]
+	path = PHP/S6_R1_AT1
+	url = https://github.com/LuanBasani/S6_R1_AT1.git
+[submodule "PHP/S7_R1_AT1"]
+	path = PHP/S7_R1_AT1
+	url = https://github.com/LuanBasani/S7_R1_AT1.git
+[submodule "PHP/S8_R1_AT1"]
+	path = PHP/S8_R1_AT1
+	url = https://github.com/LuanBasani/S8_R1_AT1.git
+[submodule "PHP/S9_R1_AT1"]
+	path = PHP/S9_R1_AT1
+	url = https://github.com/LuanBasani/S9_R1_AT1.git
+[submodule "PHP/S10_R1_AT1"]
+	path = PHP/S10_R1_AT1
+	url = https://github.com/LuanBasani/S10_R1_AT1.git
