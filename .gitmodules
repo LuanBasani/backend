@@ -37,3 +37,6 @@
 [submodule "PHP/S4_R1_AT1"]
 	path = PHP/S4_R1_AT1
 	url = https://github.com/LuanBasani/S4_R1_AT1.git
+[submodule "PHP/desafios"]
+	path = PHP/desafios
+	url = https://github.com/LuanBasani/desafios_01_php.git
